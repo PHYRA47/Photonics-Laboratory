@@ -9,5 +9,5 @@ Code used for the following photonics experiments:
 - **Kinegram Measurments:** Investigates kinegrams' optical effects, with spectrometer experiments, revealing diffraction properties.
 - **Spectrophotometer Measurments:** Explores spectrophotometry's diverse applications through experimental analyses in varied scenarios.
 - **Spectral Imaging:** Scripts for analyzing spectral data, generating RGB images, and calculating reflectance spectra.
-- **Fluoroscence Spectrometer:** [in progress].
+- **Fluoroscence Spectrometer:** Scripts for ploting Donaldson matrices and excitation by standard illuminant A and D65.
 
